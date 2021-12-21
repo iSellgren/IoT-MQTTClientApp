@@ -1,3 +1,3 @@
 # IoT-MQTTClientApp
 
-Känslan när man får "securetransport error: i/o error. (-1) xcode"
+Känslan när man får "securetransport error: i/o error. (-1)"
